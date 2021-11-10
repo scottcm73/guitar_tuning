@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_otd_dsq_nrb">
+    <title>Guitar Basics</title>
+    <shortdesc>Guitars come in a wide variety of shapes, sizes, and configurations, but they have
+        certain features in common.</shortdesc>
+    <refbody><section>
+            <title>Guitar Parts</title>
+            <fig id="fig_p1p_xvq_nrb">
+                <title>Guitar Parts</title>
+                <image href="Guitarparts.jpg" id="image_q1p_xvq_nrb">
+                    <alt>guitar parts - Creative- Commons license from wikipedia -- Asderty007</alt>
+                </image>
+            </fig>
+            <p>Standard guitars have six strings. Guitars can be acoustic, electric, or a
+                combination of the two, acoustic/electric.</p>
+            <p>Acoustic guitars: have a sound hole that emits the tones. Playing the acoustic guitar
+                does not require that you plug it in.</p>
+            <p><b>Electric guitars</b>: use pickups that convert string vibrations into an electric
+                signal. This electric signal is sent to an amplifier to produce sound. Built-in
+                effects in the amplifier or effects pedals can change the sound that the amplifier
+                makes.</p>
+            <p><b>Acoustic/electric</b> guitars can be played without being plugged in. However,
+                acoustic/electric guitars can also be plugged in and use effects pedals. </p>
+        </section>
+        <section><title>Headstock Configurations</title>
+            <p><image href="guitar_headstocks.jpg" width="750" height="400" id="image_z34_j5r_nrb"
+                />Guitars can have one of several different headstock configurations. Some guitars'
+                tuning keys are all on the left side. Others have three tuning keys on the left and
+                three on the right. Another less common configuration has four tuning keys on the
+                left and two on the right.</p> <p>The way you tighten a string depends on the direction it is wound around the tuning peg. Proper
+                setup requires that the tuning pegs corresponding to the tuning keys on the left
+                have the strings wound around them counter clockwise. If it is wound
+                counter-clockwise around the tuning peg (as it is done for the tuning keys are on
+                the left side of the headstock), you will have to turn the tuning key
+                counter-clockwise to tighten the string.</p><p>For tuning keys on the right side of the head stock (which have the string wound clockwise), you
+                need to turn the tuning key clockwise to tighten the string.</p> </section>
+        <section>
+            <title>Strings</title>
+            <image href="guitarstrings2.jpg" id="image_ic4_m5r_nrb" height="427" width="759"
+                /><p>Guitar strings are numbered one to six with the string that has the highest
+                notes being one. This numbering arrangement from six to one is opposite of what you
+                would expect from going from lowest to highest tones. This is also the way they are
+                arranged from top (string six) to bottom (string one) for right handed guitarists
+                when playing. </p><p>The strings are also referred to with the notes that they play
+                when in open position. The notes from string six down to string one are: low E, A,
+                D, G, B, high E. </p><p>When referring to the notes a number after the letter
+                designates the notes octive. So, going from string six to string one the notes are
+                actually E2, A2, D3, G3, B3, and E4 respectively. </p></section>
+        <section>
+            <title>Frets</title>
+            <p>Six-string guitars can have between 20 and 24 frets. Frets are numbered from fret one
+                (next to the headstock) to fret 20, 21, 22, or 24 next to the bridge, depending on
+                how many frets your guitar has. Playing notes on a fret means that your finger holds
+                down the string against the fret with a certain number. In the case of the first
+                fret, for example, you would press down your index finger to the space just left of
+                the fret when looking down at the guitar in playing position. </p>
+            <p>Most commonly, the fret number refers to the space above the fretwire that you use to
+                play a note.</p>
+        </section>
+    </refbody>
+</reference>

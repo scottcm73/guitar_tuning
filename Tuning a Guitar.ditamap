@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+
+<map id="guitar_tuning">
+   <title>Tuning a Guitar</title>
+   <topicgroup  collection-type="family" toc="yes">
+      <topicref href="how_to_tune_an_acoustic_guitar.dita" type="task"></topicref>
+      <topicref href="how_to_tune_an_electric_guitar.dita" type="task"></topicref>
+      <topicref href="harmonic_tuning.dita" type="task"></topicref>
+      <topicref href="relative_tuning.dita" type="task"></topicref>
+      <topicref href="guitar_basics.dita" type="reference"></topicref>
+      <topicref href="drop-d_tuning.dita" type="concept"></topicref>
+      <topicref href="drop-c_tuning.dita" type="concept"></topicref>
+   </topicgroup>
+</map>

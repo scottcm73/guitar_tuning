@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ahm_vkx_nrb">
+    <title>Custom Tuning</title>
+    <shortdesc>Custom guitar tuning involves tuning of one or more guitar stings lower than their
+        standard tuning between one half tone and two whole tones lower than standard tuning. </shortdesc>
+    <conbody>
+        <p>If the low E is tuned lower, the high E is also tuned lower by the same amount. Other
+            custom tuning options including tuning all of the stings a half tone, whole tone,  one
+            and a half tones, or two tones lower. This is essential relative tuning the guitar a
+            certain nunber of tones lower. </p>
+        <note>Custom tuning is never higher than the original string's intended tones because the stings could break.</note>
+    </conbody>
+</concept>

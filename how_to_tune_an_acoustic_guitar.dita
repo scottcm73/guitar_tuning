@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="tuning_the_guitar" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd:1.2">
+<title>How to Tune an Acoustic Guitar</title>
+<taskbody>
+     <prereq id="prereq_lr4_dvn_mrb">This tutorial is for standard tuning of an acoustic guitar. </prereq>
+     <context id="acoustic_tune_context"><p>You will first need to see if your guitar has tuning pegs on the left and the right side of the headstock or just on the left side. <xref href="guitar_basics.dita">
+                See this reference about guitar basics</xref>.</p><image href="guitar_headstocks.jpg" width="750" height="400" id="image_cdb_2ls_nrb"/></context>
+<steps>
+<step id="tuning_app_step">
+     <cmd>Double-click on the guitar tuning app icon on your phone. </cmd>
+     <info>I recommend using the Fender Tune app. Some tuning apps are even available online so you
+                                                  just go to a website. However, because you will
+                                                  tune your guitar most every time you pick it up to
+                                                  play it, having the Fender Tune app on your phone
+                                                  is adviseable.</info>
+                                                  </step>
+<step id="phone_postion_step">
+<cmd>Place phone near where you will sit.</cmd>
+</step>
+<step>
+<cmd>Pick up guitar with left hand on neck. </cmd>
+</step>
+<step>
+                                                  <cmd>With your right hand, pick up your guitar
+                                                  pick and hold it between your index finger and
+                                                  your thumb.</cmd>
+                                                  </step>
+<step>
+<cmd>Sit down on a couch or chair.</cmd>
+</step>
+<step>
+<cmd>Put the guitar in playing position on left knee.</cmd>
+</step>
+<step>
+                                                  <cmd>Tune one string at a time starting with
+                                                  string six (the thickest string).</cmd>
+                                                  <info><image href="guitarstrings2.jpg" width="759" height="427"
+                                                  id="image_i4x_vks_nrb"/></info>
+                                                  <substeps id="tunesub">
+                                                  <substep id="check">
+                                                  <cmd>Check the pitch for that string against the
+                                                  tuning app.</cmd>
+                                                  </substep>
+                                                  <substep id="low">
+                                                  <cmd>If the pitch is low, you need to tighten the
+                                                  strings by turning the corresponding tuning
+                                                  key.</cmd>
+                                                  <info>The adage righty tighty, lefty loosy does
+                                                  not always hold for guitar tuning. Tuning keys
+                                                  that are right tighten the strings when the tuning
+                                                  key is rotated clockwise. Those on the left side
+                                                  of the headstock are tightened
+                                                  counter-clockwise.</info>
+                                                  </substep>
+                                                  <substep id="high">
+                                                  <cmd>If the pitch is high, loosen the string by
+                                                  turning the tuning keys clockwise for those on the
+                                                  left of the headstock, and counter-clockwise for
+                                                  those on the right.</cmd>
+                                                  </substep>
+                                                  <substep>
+                                                  <cmd>Continue tuning each string with this
+                                                  procedure until all six strings are tuned
+                                                  properly.</cmd>
+                                                  </substep>
+                                                  </substeps>
+                                                  <stepresult>Now, your guitar is in tune. You are
+                                                  ready to play!</stepresult>
+                                                  </step>
+</steps>
+</taskbody>
+</task>

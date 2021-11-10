@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="drop-c">
+    <title>Drop-C Tuning</title>
+    <shortdesc>Drop-C tuning involves tuning the low E string (E2, string six) and high E string (E4, string one) two whole
+        tones lower to low C (C2) and high C (C4) respectively. This allows easier playing of
+        specific chords.</shortdesc>
+    <conbody>
+        <p>The notes in Drop-D tuning from sting six to sting one are C, A, D, G, B, and C respectively. Specifically the notes are C2, 
+            A2, D3, G3, B3, C4. You will notice that only the high and low E's change pitch compared to standard tuning.</p>
+        
+    </conbody>
+</concept>
